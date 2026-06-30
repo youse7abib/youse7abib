@@ -1,15 +1,43 @@
 <div align="center">
-<div align="center">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="100%" max-width="600" style="background: #0d1117; border-radius: 12px; font-family: 'Courier New', Courier, monospace;">
-  <text x="50%" y="60" fill="#00ff66" font-size="28" font-weight="bold" text-anchor="middle">
-    I'm Yousef Reda Habib
-    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+  <style>
+    .typing-text-1 {
+      opacity: 0;
+      animation: type1 8s infinite;
+    }
+    .typing-text-2 {
+      opacity: 0;
+      animation: type2 8s infinite;
+    }
+    .loading-bar {
+      animation: load 8s infinite;
+      filter: drop-shadow(0px 0px 6px #00ff66);
+    }
+    @keyframes type1 {
+      0%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes type2 {
+      0%, 45% { opacity: 0; }
+      50%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes load {
+      0% { width: 0; }
+      45% { width: 300; }
+      50% { width: 0; }
+      95% { width: 300; }
+      100% { width: 0; }
+    }
+  </style>
+
+  <text x="50%" y="65" fill="#00ff66" font-size="26" font-weight="bold" text-anchor="middle" class="typing-text-1">
+    Hi, I'm Yousef Reda Habib 👋
   </text>
   
-  <text x="50%" y="60" fill="#00ff66" font-size="26" font-weight="bold" text-anchor="middle">
+  <text x="50%" y="65" fill="#00ff66" font-size="24" font-weight="bold" text-anchor="middle" class="typing-text-2">
     > Security Researcher & Dev _
-    <animate attributeName="opacity" values="1;0;0;1" dur="4s" repeatCount="indefinite"/>
   </text>
 
   <text x="50%" y="115" fill="#8b949e" font-size="14" text-anchor="middle">
@@ -18,12 +46,7 @@
 
   <rect x="150" y="130" width="300" height="12" rx="6" fill="#21262d" />
   
-  <rect x="150" y="130" height="12" rx="6" fill="#00ff66">
-    <animate attributeName="width" values="0;300;300;0" dur="4s" repeatCount="indefinite" />
-    <style>
-      rect { filter: drop-shadow(0px 0px 4px #00ff66); }
-    </style>
-  </rect>
+  <rect x="150" y="130" height="12" rx="6" fill="#00ff66" class="loading-bar" width="0" />
 </svg>
 
 <br>
@@ -36,22 +59,7 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&style=flat&color=orange&label=PROFILE+VIEWS)
-<br>
-</div>
-<h1>Hi there, I'm Yousef Reda Habib! 👋</h1>
-
-<img src="https://github.com/youse7abib/youse7abib/blob/main/yousef7abib-profile-banner.svg" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=youse7abib&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
 </div>
 
@@ -91,32 +99,3 @@ class About extends Me {
     "CurrentlyLearning" : { "Next.js", "Express", "TypeScript", "Advanced Cloud Attacking" }
   };
 }
-```
-
-<div align="center" >
-<a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
-
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-</div>
