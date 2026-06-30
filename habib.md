@@ -305,14 +305,14 @@ mindmap
 </div>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=youse7abib&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</div>
+</div>--->
 
 ---
 
@@ -471,21 +471,25 @@ Connect WakaTime to automatically update this section.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/usef-7abib">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yousef7abib2008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://www.instagram.com/yousef_7abib8">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+<!---
 <a href="https://discord.com/users/YOUR_ID">
 <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
+</a>--->
+<!---
 <a href="https://YOUR_WEBSITE">
 <img src="https://skillicons.dev/icons?i=cloudflare"/>
-</a>
+</a>--->
 
 </div>
 
