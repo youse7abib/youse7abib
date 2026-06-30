@@ -1,43 +1,5 @@
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="100%" max-width="600" style="background: #0d1117; border-radius: 12px; font-family: 'Courier New', Courier, monospace;">
-  <text x="50%" y="60" fill="#00ff66" font-size="28" font-weight="bold" text-anchor="middle">
-    I'm Yousef Reda Habib
-    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
-  </text>
-  
-  <text x="50%" y="60" fill="#00ff66" font-size="26" font-weight="bold" text-anchor="middle">
-    > Security Researcher & Dev _
-    <animate attributeName="opacity" values="1;0;0;1" dur="4s" repeatCount="indefinite"/>
-  </text>
-
-  <text x="50%" y="115" fill="#8b949e" font-size="14" text-anchor="middle">
-    Loading Hacker Experience...
-  </text>
-
-  <rect x="150" y="130" width="300" height="12" rx="6" fill="#21262d" />
-  
-  <rect x="150" y="130" height="12" rx="6" fill="#00ff66">
-    <animate attributeName="width" values="0;300;300;0" dur="4s" repeatCount="indefinite" />
-    <style>
-      rect { filter: drop-shadow(0px 0px 4px #00ff66); }
-    </style>
-  </rect>
-</svg>
-
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&style=flat&color=orange&label=PROFILE+VIEWS)
-<br>
-
+  
 <h1>Hi there, I'm Yousef Reda Habib! 👋</h1>
 
 <img src="https://github.com/youse7abib/youse7abib/blob/main/yousef7abib-profile-banner.svg" alt="Hello Coders" width="60%"/> <br>
