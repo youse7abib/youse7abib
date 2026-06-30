@@ -499,9 +499,9 @@ Connect WakaTime to automatically update this section.
 
 <div align="center">
 
-If you enjoy my projects, consider giving them a ⭐
+If you enjoy my projects, consider giving them a 
 
-Building secure applications • Solving CTFs • Learning every day 🚀
+Building secure applications • Playing CTFs • Learning every day
 
 </div>
 
