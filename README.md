@@ -387,20 +387,14 @@ Terminal:
   - Bash
 ```
 
----
 
-# ⏱️ Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
+# ⏱ Weekly Coding
 
-```text
-No activity tracked yet.
-Connect WakaTime to automatically update this section.
-```
+<p align="center">
+  <img src="./profile/hackatime.svg" width="100%">
+</p>
 
-<!--END_SECTION:waka-->
-
----
 
 # 🐍 Contribution Snake
 
