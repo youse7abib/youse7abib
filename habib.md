@@ -421,23 +421,23 @@ Connect WakaTime to automatically update this section.
 
 <div align="center">
 
-<a href="https://github.com/youse7abib/STEM-Mentorship">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=STEM-Mentorship&theme=tokyonight&hide_border=true"/>
+<a href="https://stem-mentorship.vercel.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stemmentorshipprogram&repo=stem-mentorship-official-website&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/youse7abib/YOUR_SECOND_REPOSITORY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<a href="https://octbiologyclub.org">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=octbiologyclub&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/youse7abib/YOUR_THIRD_REPOSITORY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_THIRD_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<a href="https://https://www.stemastronomyclub.org/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=astro-club&theme=tokyonight&hide_border=true"/>
 </a>
-
+<!--
 <a href="https://github.com/youse7abib/YOUR_FOURTH_REPOSITORY">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_FOURTH_REPOSITORY&theme=tokyonight&hide_border=true"/>
-</a>
+</a>---->
 
 </div>
 
