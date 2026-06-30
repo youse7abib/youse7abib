@@ -387,12 +387,12 @@ Terminal:
   - Bash
 ```
 
-
-
-# ⏱ Weekly Coding
+## ⏱ Coding Activity
 
 <p align="center">
-  <img src="./profile/hackatime.svg" width="100%">
+  <a href="https://hackatime.hackclub.com/@yousef_7abib">
+    <img src="https://img.shields.io/badge/View%20My-Hackatime%20Stats-ec3750?style=for-the-badge&logo=hackclub&logoColor=white"/>
+  </a>
 </p>
 
 
