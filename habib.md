@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Yousef+Habib&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&random=false&width=800&lines=Penetration+Tester;CTF+Setter;Web+Developer;Fedora+Linux+User+(I use fedora btw);Pentration+Tester"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&random=false&width=800&lines=Penetration+Tester;CTF+Setter;Web+Developer;Linux+User+(I use fedora btw);"/>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
