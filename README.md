@@ -1,83 +1,156 @@
 <div align="center">
-  
-<h1>Hi there, I'm Yousef Reda Habib! 👋</h1>
 
-<img src="https://github.com/youse7abib/youse7abib/blob/main/yousef7abib-profile-banner.svg" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+# Hi, I'm Yousef Reda Habib 👋
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### Full Stack Developer (Learning) • Penetration Tester • CTF Setter
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350">
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&style=flat&color=orange&label=PROFILE+VIEWS)
-<br>
-</div>
-
-<hr></hr>
-
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<p>
+Passionate about building secure applications, solving security challenges, and exploring offensive security.
 </p>
 
-```javascript
-// Yousef's Stack Organized
+![](https://komarev.com/ghpvc/?username=youse7abib&label=Profile%20Views&color=0e75b6&style=flat)
 
-class About extends Me { 
-  const myTools = {  
-    "Roles" : { "Web Developer", "Penetration Tester", "CTF Setter" },
-    "Motto" : "One vulnerability is all I need.",
-    "CyberSecurity" : { "Network Security", "Cryptography", "Web Exploitation", "Mobile Exploitation", "Cloud Attacking", "Social Engineering" },
-    "Hardware" : { "Arduino IDE", "ESP", "Sensors", "Relays", "Motors" },
-    "CurrentlyLearning" : { "Next.js", "Express", "TypeScript", "Advanced Cloud Attacking" }
-  };
-}
+</div>
+
+---
+
+# 💫 About Me
+
+```ts
+const yousef = {
+    education: "STEM High School for Boys - 6th of October",
+
+    roles: [
+        "Full Stack Developer (Learning)",
+        "Penetration Tester",
+        "CTF Setter"
+    ],
+
+    operatingSystem: "Fedora Linux",
+
+    interests: [
+        "Cybersecurity",
+        "Web Development",
+        "Linux",
+        "Robotics"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "Express.js",
+        "TypeScript",
+        "Advanced Cloud Attacking"
+    ],
+
+    motto: "One vulnerability is all I need."
+};
 ```
 
-<div align="center" >
-<a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
+---
 
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+# 🔐 Cybersecurity
 
-</a>
+- Web Exploitation
+- Mobile Exploitation
+- Network Security
+- Cryptography
+- Cloud Attacking
+- Social Engineering
+- CTF Design
+- Penetration Testing
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/youse7abib/youse7abib/main/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+---
 
-</details>
-  
-<hr></hr>
+# 🤖 Hardware & Robotics
 
-**Code Cycle**<br>
+- Arduino
+- ESP Boards
+- Electronics
+- Sensors
+- Relays
+- Motors
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash,mysql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,fedora,arduino"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=youse7abib&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youse7abib&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youse7abib&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youse7abib&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Next.js
+- Express.js
+- TypeScript
+- Advanced Cloud Attacking
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+Think → Break → Learn → Build → Repeat
+```
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
