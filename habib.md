@@ -34,7 +34,7 @@ const Habib = {
     roles: [
         "Penetration Tester",
         "CTF Setter",
-        "Full Stack Developer (Learning)"
+        "Mern Stack Developer"
     ],
 
     operatingSystem: "Fedora Linux",
@@ -52,6 +52,7 @@ const Habib = {
         "Arduino",
         "ESP",
         "Sensors",
+        "Relays",
         "Electronics"
     ],
 
@@ -76,17 +77,18 @@ const Habib = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/usef-7abib">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yousef7abib2008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<!--
 <a href="https://discord.com">
 <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+</a>-->
 
 </p>
 
@@ -190,9 +192,6 @@ const Habib = {
 <img src="https://skillicons.dev/icons?i=figma"/>
 </a>
 
-<a href="https://fedoraproject.org/">
-<img src="https://skillicons.dev/icons?i=fedora"/>
-</a>
 
 <a href="https://kernel.org/">
 <img src="https://skillicons.dev/icons?i=linux"/>
@@ -211,11 +210,9 @@ const Habib = {
 ```text
 ████████████████████░░░░  Full Stack Development
 
-██████████████████░░░░░░  Advanced Cloud Attacking
+████████████████████░░░░  Penetration Testing
 
-██████████████████████░░  Penetration Testing
-
-███████████████████████░  Building CTF Challenges
+█████████████████████░░░  Building CTF Challenges
 ```
 
 ---
@@ -224,13 +221,10 @@ const Habib = {
 
 <div align="center">
 
-| 🌐 Web Security | 📱 Mobile Security | ☁️ Cloud Security |
+| 🌐 Web Exploitation | 📱 Mobile Exploitation | ☁️ Cloud Attacking |
 |:---------------:|:------------------:|:-----------------:|
-| ✅ Web Exploitation | ✅ Mobile Exploitation | ✅ Cloud Attacking |
+| 🌍 Network Security| 🔒 Cryptography | 🎭 Social Engineering |
 
-| 🌍 Network | 🔒 Cryptography | 🎭 Social Engineering |
-|:----------:|:---------------:|:---------------------:|
-| ✅ Network Security | ✅ Crypto | ✅ Human Hacking |
 
 </div>
 
@@ -269,8 +263,11 @@ mindmap
       Next.js
       Express
       TypeScript
+      Python
     Linux
       Fedora
+      ubuntu
+      Kali
     Hardware
       Arduino
       ESP
