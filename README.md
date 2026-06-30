@@ -279,9 +279,9 @@ mindmap
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=youse7abib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youse7abib&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended-frontend-alpha.vercel.app/api/top-langs/?username=youse7abib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -304,14 +304,14 @@ mindmap
 </div>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=youse7abib&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</div>
+</div>--->
 
 ---
 
@@ -420,23 +420,24 @@ Connect WakaTime to automatically update this section.
 
 <div align="center">
 
-<a href="https://github.com/youse7abib/STEM-Mentorship">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=STEM-Mentorship&theme=tokyonight&hide_border=true"/>
+<a href="https://stem-mentorship.vercel.app/">
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api/pin/?username=stemmentorshipprogram&repo=stem-mentorship-official-website&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/youse7abib/YOUR_SECOND_REPOSITORY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
+
+<a href="https://octbiologyclub.org">
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&repo=octbiologyclub&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/youse7abib/YOUR_THIRD_REPOSITORY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_THIRD_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<a href="https://www.stemastronomyclub.org/">
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&repo=astro-club&theme=tokyonight&hide_border=true"/>
 </a>
-
+<!--
 <a href="https://github.com/youse7abib/YOUR_FOURTH_REPOSITORY">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=YOUR_FOURTH_REPOSITORY&theme=tokyonight&hide_border=true"/>
-</a>
+</a>---->
 
 </div>
 
@@ -470,21 +471,25 @@ Connect WakaTime to automatically update this section.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/usef-7abib">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yousef7abib2008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://www.instagram.com/yousef_7abib8">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+<!---
 <a href="https://discord.com/users/YOUR_ID">
 <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
+</a>--->
+<!---
 <a href="https://YOUR_WEBSITE">
 <img src="https://skillicons.dev/icons?i=cloudflare"/>
-</a>
+</a>--->
 
 </div>
 
@@ -494,9 +499,9 @@ Connect WakaTime to automatically update this section.
 
 <div align="center">
 
-If you enjoy my projects, consider giving them a ⭐
+If you enjoy my projects, consider giving them a 
 
-Building secure applications • Solving CTFs • Learning every day 🚀
+Building secure applications • Playing CTFs • Learning every day
 
 </div>
 
