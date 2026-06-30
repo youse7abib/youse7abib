@@ -279,10 +279,9 @@ mindmap
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=youse7abib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youse7abib&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="49%" src="https://github-stats-extended-frontend-alpha.vercel.app/api/top-langs/?username=youse7abib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -422,17 +421,18 @@ Connect WakaTime to automatically update this section.
 <div align="center">
 
 <a href="https://stem-mentorship.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=stemmentorshipprogram&repo=stem-mentorship-official-website&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api/pin/?username=stemmentorshipprogram&repo=stem-mentorship-official-website&theme=tokyonight&hide_border=true"/>
 </a>
 
+
 <a href="https://octbiologyclub.org">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=octbiologyclub&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&repo=octbiologyclub&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
 
-<a href="https://https://www.stemastronomyclub.org/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=youse7abib&repo=astro-club&theme=tokyonight&hide_border=true"/>
+<a href="https://www.stemastronomyclub.org/">
+<img src="https://github-stats-extended-frontend-alpha.vercel.app/api?username=youse7abib&repo=astro-club&theme=tokyonight&hide_border=true"/>
 </a>
 <!--
 <a href="https://github.com/youse7abib/YOUR_FOURTH_REPOSITORY">
