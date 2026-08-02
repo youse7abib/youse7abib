@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=Yousef+Reda+Habib"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=Yousef+Habib"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=900&color=8B0000&center=true&vCenter=true&random=false&width=800&lines=Penetration+Tester;CTF+Player;Web+Developer;Linux+User+(+I+use+fedora+btw+);"/>
 
