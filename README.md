@@ -473,10 +473,10 @@ Terminal:
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/yousef_7abib8">
+
+<!---<a href="https://www.instagram.com/yousef_7abib8">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-<!---
 <a href="https://discord.com/users/YOUR_ID">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>--->
